@@ -1,14 +1,10 @@
 {
-  "name": "jpmorgan pruebas",
+  "name": "guardados",
   "description": "Blank Process",
-  "main": "pruebas.xaml",
+  "main": "RegexSolution.xaml",
   "dependencies": {
-    "BalaReva.PDF.Activities": "[2019.1.0]",
-    "PDF_Activities": "[1.0.2]",
-    "SearchExtractWords": "[1.0.10]",
     "UiPath.Excel.Activities": "[2.6.2]",
     "UiPath.Mail.Activities": "[1.5.1]",
-    "UiPath.PDF.Activities": "[2.1.0]",
     "UiPath.System.Activities": "[19.7.0]",
     "UiPath.UIAutomation.Activities": "[19.7.0]"
   },
